@@ -1,2 +1,3 @@
 hi this is first commit to reset.txt
 2nd line added to the reset.txt
+3rd line added for the 3rd commit to reset.txt
