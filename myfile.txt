@@ -1,1 +1,3 @@
 hi this is my file.txt
+hi this is my file.txt
+thi is the secnod commit which needs to be merged in the master branch
