@@ -1,1 +1,2 @@
 hi this is first commit to reset.txt
+2nd line added to the reset.txt
