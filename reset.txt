@@ -1,0 +1,2 @@
+hi this is the 1 line to reset.txt
+wq!
